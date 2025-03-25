@@ -1,4 +1,4 @@
-Hi I'm a young italian tech student passionate about game development
+Hi I'm a young italian tech student passionate about game and software development
 
 you can contact me at devszeta@gmail.com or on my twitter (@Zickyyyy1)
 
