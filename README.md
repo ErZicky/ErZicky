@@ -3,7 +3,7 @@ Hi, I'm a young italian tech student passionate about game and software developm
 you can contact me at devszeta@gmail.com or on my twitter (@Zickyyyy1)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErZicky)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=nightowl)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErZicky&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=nightowl)
 
 <!---
 ErZicky/ErZicky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
