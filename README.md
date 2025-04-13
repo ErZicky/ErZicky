@@ -1,7 +1,8 @@
-Hi, I'm a young italian tech student passionate about game and software development
+Hi, I'm a young italian tech student passionate about game and software development.
 
-you can contact me at devszeta@gmail.com or on my twitter (@Zickyyyy1)
+💬 you can contact me at devszeta@gmail.com or on my twitter (@Zickyyyy1)
 
+📰​ For updates on my projects I have a [Telegram channel](https://t.me/+KVFswAdR3YhlNjM0)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErZicky&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
